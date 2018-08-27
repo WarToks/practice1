@@ -34,11 +34,14 @@
 
 # Javascriptについて
 
-- 表示する方法
+- ポップアップを表示する方法.
+    - `alert(文字列)` を用いればよい！！！
 
 ```js
 alert("これは文字列です");
 ```
 
-![2018-08-28 1 34 21](https://user-images.githubusercontent.com/34710586/44672160-9948c480-aa62-11e8-929a-5456b0586eeb.png)
+### 結果
+
+![2018-08-28 1 37 43](https://user-images.githubusercontent.com/34710586/44672316-078d8700-aa63-11e8-8bbc-2ac1af5195b7.png)
 
