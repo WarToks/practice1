@@ -43,13 +43,11 @@
 - ポップアップを表示する方法.
     - `alert(文字列)` を用いればよい！！！
     
-    
+    ```js
+    alert("これは文字列です");
+    ```
 
-```js
-alert("これは文字列です");
-```
+    ### 結果
 
-### 結果
-
-![2018-08-28 1 37 43](https://user-images.githubusercontent.com/34710586/44672316-078d8700-aa63-11e8-8bbc-2ac1af5195b7.png)
+    ![2018-08-28 1 37 43](https://user-images.githubusercontent.com/34710586/44672316-078d8700-aa63-11e8-8bbc-2ac1af5195b7.png)
 
