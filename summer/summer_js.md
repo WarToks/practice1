@@ -31,3 +31,14 @@
  2. `pr.js`に命令を書く
  
  3. `practice.html` をSafariやChromeブラウザに貼り付けて実行!!!!!
+
+# Javascriptについて
+
+- 表示する方法
+
+```js
+alert("これは文字列です");
+```
+
+![2018-08-28 1 34 21](https://user-images.githubusercontent.com/34710586/44672160-9948c480-aa62-11e8-929a-5456b0586eeb.png)
+
