@@ -59,6 +59,9 @@
    ```js
    document.write("ほげほげ");
    ```
+   
+   ![2018-08-28 2 45 09](https://user-images.githubusercontent.com/34710586/44675836-83d89800-aa6c-11e8-9baa-ca3105186f7a.png)
+
 
 
 
