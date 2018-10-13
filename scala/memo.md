@@ -2,4 +2,4 @@
 
 競技プログラミングの簡単な問題をいくつか解いてみる
 
-# [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/) (通称 AOJ)
+## [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/) (通称 AOJ)
